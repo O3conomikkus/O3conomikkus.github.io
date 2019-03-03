@@ -1,0 +1,17 @@
+enable : true
+bgImage : images/backgrounds/bg-2.jpg
+testimonialItem :
+  - name : Student1
+    image : images/team/client-1.jpg
+    date : Dec 26, 2018
+    content : xxx
+
+  - name : Student2
+    image : images/team/client-2.jpg
+    date : Dec 27, 2018
+    content : xxx
+
+  - name : Student3
+    image : images/team/client-1.jpg
+    date : Dec 28, 2018
+    content : xxx

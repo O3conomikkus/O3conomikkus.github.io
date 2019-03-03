@@ -1,0 +1,13 @@
+enable : true
+image : images/about/students2.jpg
+title : Tech, Data and Innovation Mindset
+description : xxx
+description2 : xxx
+aboutItem :
+  - icon : tf-circle-compass
+    title : Practical Knowledge
+    content : xxx
+
+  - icon : tf-hotairballoon
+    title : Real Life Skills
+    content : xxx
