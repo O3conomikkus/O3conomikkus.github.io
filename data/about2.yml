@@ -1,13 +1,12 @@
 enable : true
 image : images/about/students2.jpg
 title : Tech, Data and Innovation Mindset
-description : xxx
-description2 : xxx
+description : The newly developed course “Tech, Data and the Innovation Mindset” explores the profound changes triggered by the emergence of a data-driven economy – from the review of core data technologies to new business approaches developed in the Silicon Valley.
 aboutItem :
   - icon : tf-circle-compass
     title : Practical Knowledge
-    content : xxx
+    content : Delivers the theoretical tools and perspective to make sense of the evolutions of recent years, and prepare students for the future
 
   - icon : tf-hotairballoon
     title : Real Life Skills
-    content : xxx
+    content : Integrates an experimental component that will allow students to engage in concrete, practical assignments with a do-it-yourself mindset.

@@ -3,25 +3,30 @@ heading : The
 headingSpan : Course
 serviceItem :
   - icon : tf-globe
-    title : WordPress Theme
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : All things software
+    content : “Every company is a software company”; How open source and GitHub transformed the software industry; Tech assignment 1 - Creating the course static web site from open source
+
 
   - icon : tf-ion-laptop
-    title : Responsive Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : The modern way of building applications
+    content : Software engineering vs software development; The key methodologies - Agile, Scrum, Continuous Integration; Tech assignment 2 - Improving the site by connecting external services
+
 
   - icon : tf-genius
-    title : Media &amp; Advertisement
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Working with the Cloud
+    content : Fundamentals of the Cloud; The Cloud native stack the role of Docker and Kubernetes; Tech assignment 3 - Deploying in the Cloud
+
 
   - icon : tf-dial
-    title : Graphic Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Why data matters this much
+    content : The data flywheel concept; Making sense of Big Data; Tech assignment 4 - Tracking users, from data collection to visual analysis
+
 
   - icon : tf-target3
-    title : Apps Development
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Understanding the Silicon Valley mindset
+    content : From the right to fail to Customer development & Lean StartupTM; Discussion of key intellectual contributions; Tech assignment 5 - Making the project future-proof
+
 
   - icon : tf-lifesaver
-    title : Networking
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Data-driven Artificial Intelligence
+    content : Understanding machine learning and deep learning; Business opportunities of AI; Tech wrap-up - What we have achieved together

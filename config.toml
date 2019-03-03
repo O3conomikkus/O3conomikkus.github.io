@@ -8,7 +8,7 @@ theme = "meghna-hugo"
 # Menu
 [menu]
     [[menu.nav]]
-    name = "START1000"
+    name = "Introduction"
     URL = "about"
     weight = 2
 
@@ -56,12 +56,12 @@ custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]
-    enable = false
+    enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "This is the Future!"
-    content= "Join Tech, Data & Innovation Mindset if you want to lead the world!"
-    btn = true
+    heading = "Are you ready for the future?"
+    content= "Join Tech, Data & Innovation Mindset if you want to be prepared for tomorrow!"
+    btn = false
     btnText="Explore Us"
     btnURL="#services"
 
