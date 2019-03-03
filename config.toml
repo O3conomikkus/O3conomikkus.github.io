@@ -8,7 +8,7 @@ theme = "meghna-hugo"
 # Menu
 [menu]
     [[menu.nav]]
-    name = "Introduction"
+    name ="Start"
     URL = "about"
     weight = 2
 
