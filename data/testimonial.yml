@@ -1,17 +1,17 @@
 enable : true
 bgImage : images/backgrounds/bg-2.jpg
 testimonialItem :
-  - name : Student1
+  - name : Niklas
     image : images/team/client-1.jpg
     date : Dec 26, 2018
-    content : xxx
+    content : awesome
 
-  - name : Student2
+  - name : Roman
     image : images/team/client-2.jpg
     date : Dec 27, 2018
-    content : xxx
+    content : great
 
-  - name : Student3
+  - name : Mikko
     image : images/team/client-1.jpg
     date : Dec 28, 2018
-    content : xxx
+    content : loved it

@@ -2,10 +2,10 @@ enable : true
 heading : The
 headingSpan : Guests
 teamMember :
-  - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
-    designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  - image : images/team/ivanfrain.jpg
+    name : Ivan Frain
+    designation : Big Data & IoT solution architect, Data Analytics Services at PwC France
+    description : Ivan Frain is a solution architect in the area of Big Data & IoT with over 10 years of industry experience. He started his career as an Development Engineer at Seanodes, where he worked on several items around distributed storage systems. After stations at Huawei, Euranova, Ubeeko and Enersy, Mr. Frain spent the last three years at PwC as a Senior Manager in the Smart Data and IoT section.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -16,10 +16,10 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
 
-  - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  - image : images/team/christophe.jpg
+    name : Christophe Baroux
+    designation : Director, South Europe, Middle East and Africa at Docker, Inc
+    description : Christophe Baroux is a expert in the cloud business with a demonstrated history in the information technology and software industry. After stations at US Robotics, Orange, Micromuse, Bull and IT4Control, he spent the last 10 years in leading positions at Amazon, Microsoft and Google, where he built, managed and scaled their cloud businesses. At Docker, a leading company in the containerization market, Mr. Baroux is responsible for the go-to-market execution and leads the teams in South Europe, Middle East and Africa.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -30,30 +30,12 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
 
-  - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+  - image :
+    name : TBA
+    designation : TBA
+    description : TBA
 
-  - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+  - image : 
+    name : TBA
+    designation : TBA
+    description : TBA

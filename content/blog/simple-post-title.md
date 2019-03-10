@@ -1,19 +1,14 @@
 ---
-title: "Simple Post Title"
+title: HEC Data Minds
 date: 2018-09-12T14:39:16+06:00
-author: Somrat
-image: images/blog/blog-post-2.jpg
-description : "This is meta description"
+image: images/blog/dataminds.png
+description : HEC Data Minds
 ---
 
+HEC Data Minds is HEC Paris’ Data Science Society. Their mission is to build a thriving community of curious business leaders that create innovation. They empower HEC students to become fluent in coding and analytical problem solving to create business value through Data Science, Machine Learning and Analytics. Their activities are:
+(1) Knowledge Development: Provide theoretical knowledge and practical skills in Data Science through classes, workshops, projects and seminars.
+(2) Events: Create an enthusiastic community of curious minds through hosting conferences, hackathons, and many inspiring events.
+(3) Ecosystem Development: Support and empower our community by connecting with external partners in the industry and academia.
+(4) Data Conseil: Provide real experience by working as Data Science Consultants on projects proposed by our partners.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
+Find more at: https://www.facebook.com/HECDataMinds/ and https://www.linkedin.com/company/hec-data-minds/
