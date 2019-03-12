@@ -28,7 +28,7 @@ theme = "meghna-hugo"
     weight = 5
 
     [[menu.nav]]
-    name = "Testimonials"
+    name = "Jobs"
     URL = "pricing"
     weight = 6
 
@@ -45,7 +45,7 @@ theme = "meghna-hugo"
 # Site params
 [params]
 home= "Home"
-logo = "images/logonew.png"
+logo = "images/logo3.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"

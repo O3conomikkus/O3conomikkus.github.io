@@ -1,55 +1,41 @@
-enable : false
-heading : The
-headingSpan : Students
+enable : true
+heading : Jobs
+headingSpan :
 pricingTable :
-  - title : Free
-    price : $99
-    time : month
+  - title : Sales Engineer
+    price : 110.000€
+    time : year
     btnURL : #
-    btnText : Signup
+    btnText : Apply
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Employer - Google
+      - planDetails : Location - Palo Alto, CA, USA
+      - planDetails : ≈ 60 hours per week
+      - planDetails : Rejection Rate - 99%
+      - planDetails : Manage the technical relationship with Google’s customers, including managing product and solution briefings, proof-of-concept work, and the coordination of additional technical resources
 
-  - title : Silver
-    price : $149
-    time : month
-    btnURL : #
-    btnText : Signup
-    plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
 
-  - title : Gold
-    price : $199
-    time : month
+  - title : Software Developer
+    price : 130.000€
+    time : year
     btnURL : #
-    btnText : Signup
+    btnText : Apply
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Employer - Facebook
+      - planDetails : Location - Menlo Park, CA, USA
+      - planDetails : ≈ 60 hours per week
+      - planDetails : Rejection Rate - 99%
+      - planDetails : Design, develop, test, deploy, maintain and improve software; Manage individual project priorities, deadlines and deliverables
 
-  - title : Platinum
-    price : $299
-    time : month
+
+  - title : Strategy Consultant
+    price : 75.000€
+    time : year
     btnURL : #
-    btnText : Signup
+    btnText : Apply
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Employer - McKinsey & Company
+      - planDetails : Location - Munich, Germany
+      - planDetails : ≈ 70 hours per week
+      - planDetails : Rejection Rate - 96%
+      - planDetails : Conduct analyses, interview clients and customers, plan and facilitate workshops, design and implement large-scale organizational change programs

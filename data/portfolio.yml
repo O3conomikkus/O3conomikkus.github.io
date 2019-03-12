@@ -1,6 +1,6 @@
 enable : true
-heading : The
-headingSpan : Teacher
+heading : Teacher
+headingSpan :
 portfolioItem :
   - types : design
     image : images/portfolio/portfolio-1.jpg

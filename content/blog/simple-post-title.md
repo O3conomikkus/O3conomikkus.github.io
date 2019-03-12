@@ -1,7 +1,7 @@
 ---
 title: HEC Data Minds
 date: 2018-09-12T14:39:16+06:00
-image: images/blog/dataminds.png
+image: images/blog/dataminds3.png
 description : HEC Data Minds
 ---
 
