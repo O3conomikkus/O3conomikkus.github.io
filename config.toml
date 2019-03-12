@@ -8,11 +8,6 @@ theme = "meghna-hugo"
 # Menu
 [menu]
     [[menu.nav]]
-    name = "Introduction"
-    URL = "about"
-    weight = 2
-
-    [[menu.nav]]
     name = "Course"
     URL = "services"
     weight = 3
@@ -33,14 +28,19 @@ theme = "meghna-hugo"
     weight = 6
 
     [[menu.nav]]
+    name = "Testimonials"
+    URL = "testimonial"
+    weight = 7
+
+    [[menu.nav]]
     name = "HEC Data Network"
     URL = "blog"
-    weight = 7
+    weight = 8
 
     [[menu.nav]]
     name = "Contact"
     URL = "contact-us"
-    weight = 8
+    weight = 9
 
 # Site params
 [params]

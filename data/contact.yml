@@ -1,7 +1,6 @@
 enable : true
-heading : Get In
-headingSpan : Touch
-title : Contact Details
+heading : Contact
+headingSpan :
 content : If you want to find out more or get in contact with us, please find our contact information below or use the contact form.
 enable_maps : false
 mapLatitude : 51.5223477
