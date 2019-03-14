@@ -33,7 +33,7 @@ theme = "meghna-hugo"
     weight = 7
 
     [[menu.nav]]
-    name = "HEC Data Network"
+    name = "Network"
     URL = "blog"
     weight = 8
 
@@ -45,7 +45,7 @@ theme = "meghna-hugo"
 # Site params
 [params]
 home= "Home"
-logo = "images/logo3.png"
+logo = "images/logo6.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -103,8 +103,8 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
+        url = "https://twitter.com/gh_mazars?lang=en"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-linkedin"
-        url = "#"
+        url = "https://www.linkedin.com/in/ghislainmazars/?originalSubdomain=fr"

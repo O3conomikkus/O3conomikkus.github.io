@@ -8,7 +8,7 @@ serviceItem :
     content2 : How open source and GitHub transformed the software industry
     content3 : Tech assignment 1 - Creating the course static web site from open source
 
-  - icon : tf-ion-app
+  - icon : tf-ion-android-apps
     title : 2. The modern way of building applications
     content1 : Software engineering vs software development
     content2 : The key methodologies - Agile, Scrum, Continuous Integration
@@ -20,13 +20,13 @@ serviceItem :
     content2 : The Cloud native stack the role of Docker and Kubernetes
     content3 : Tech assignment 3 - Deploying in the Cloud
 
-  - icon : tf-ion-analytics
+  - icon : tf-ion-ios-information
     title : 4. Why data matters this much
     content1 : The data flywheel concept
     content2 : Making sense of Big Data
     content3 : Tech assignment 4 - Tracking users from data collection to visual analysis
 
-  - icon : tf-ion-globe
+  - icon : tf-ion-ios-world-outline
     title : 5. Understanding the Silicon Valley mindset
     content1 : From the right to fail to Customer development & Lean Startup
     content2 : Discussion of key intellectual contributions
